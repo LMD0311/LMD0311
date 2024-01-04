@@ -9,4 +9,10 @@ I am a third-year undergraduate student  in the School of Future Technology, [Hu
 - 📚️ Google Scholar: [https://scholar.google.com/xinzhou](https://scholar.google.com/citations?user=SWU7N_sAAAAJ&hl=en)
 - 🏆 Academic Services: Reviewer of ICRA 2024, SSI.
 
+  
 ![Xin Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=LMD0311&show_icons=true)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/LMD0311/count.svg" />
+</p>
