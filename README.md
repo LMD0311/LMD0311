@@ -1,5 +1,5 @@
 ### Hello there! 👋
-<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="15%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
 ## 😊 About me
@@ -12,7 +12,9 @@ I am a third-year undergraduate student  in the School of Future Technology, [Hu
 
 
 ## ✨ GitHub Stats
-![Xin Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=LMD0311&show_icons=true)
+<p align="center"> 
+  <img width="50%" align="center" alt="Xin Zhou's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LMD0311&show_icons=true" />
+</p>
 
 <p align="center"> 
   Visitor count<br>
