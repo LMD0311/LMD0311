@@ -12,7 +12,7 @@ I am a student in the School of Future Technology, [Huazhong University of Scien
 
 ## ✨ GitHub Stats
 <p align="center"> 
-  <img width="50%" align="center" alt="Xin Zhou's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LMD0311&show_icons=true" />
+  <img width="80%" align="center" alt="Xin Zhou's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LMD0311&show_icons=true" />
 </p>
 
 <p align="center"> 
