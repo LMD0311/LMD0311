@@ -9,6 +9,7 @@ I am a student in the School of Future Technology, [Huazhong University of Scien
 - 📫 Email: [email me](mailto:xzhou03@hust.edu.cn)
 - 📚️ Google Scholar: [https://scholar.google.com/xinzhou](https://scholar.google.com/citations?user=SWU7N_sAAAAJ&hl=en)
 - 🌐 Website: 👉 https://lmd0311.github.io/ 👈
+- 📥 WeChat: [Xin Zhou's WeChat](https://lmd0311.github.io/assets/img/wechat.jpg)
 
 ## ✨ GitHub Stats
 <p align="center"> 
